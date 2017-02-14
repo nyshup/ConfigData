@@ -17,6 +17,8 @@ words: NotApplicable
 ---
 spring:
   profiles: subject
+  application:
+    name: subject-service
 words: I,You,He,She,It
   
 ---
